@@ -7264,12 +7264,8 @@ div.style-3 textarea::placeholder {
   }
   .tf-mouse {
     display: none;
-  }
-  .slider-testimonial.default {
+  }.img-item-none {
     display: none;
-  }
-  .slider-testimonial.style-2 {
-    display: flex;
   }
   .s-faq.p-mob {
     padding: 0px;
